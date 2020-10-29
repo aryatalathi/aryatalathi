@@ -1,6 +1,6 @@
 ### Hello! I'm Arya 👋
-  [![HitCount](http://hits.dwyl.com/aryatalathi/aryatalathi/aryatalathi.svg)](http://hits.dwyl.com/aryatalathi/aryatalathi/aryatalathi)
 
+  [![HitCount](http://hits.dwyl.com/aryatalathi/.svg)](http://hits.dwyl.com/aryatalathi)
 - 🔭 I’m currently working on Data Science and ML Algorithms
 - 🌱 I’m currently learning Intermediate level topics in Data Science
 - 👯 I’m looking to collaborate on ML and Data Science Projects
