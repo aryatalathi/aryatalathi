@@ -9,7 +9,7 @@
     <h2>Philomath</h2>
     <p>Aspiring TY Btech Computer Engineering student, Passionate Learner</p>
     <nav>  
-      <ul><h4>Skills and Interests</h4>
+      <ul><h2>Skills and Interests</h2>
         <li>Python Programming</li>
         <li>C++, C programming</li>
         <li>HTML, CSS, Web Designing</li>
