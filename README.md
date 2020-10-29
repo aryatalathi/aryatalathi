@@ -32,8 +32,6 @@
 - 🔭 I’m currently working on Data Science and ML Algorithms
 - 👯 I’m looking to collaborate on ML and Data Science Projects
 - 💬 Ask me about Python, C++, ML basics, Data analysis, Data visualization, Front End Web Designing using HTML, CSS
-- 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/arya-talathi-45835b17a/ Gmail : @aryatalathi24@gmail.com
-- ⚡ Fun fact: Not a pro coder, but the one who enjoys every code!  :) 
 
 
 <!--
