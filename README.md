@@ -12,7 +12,7 @@
       <ul><h4>Skills and Interests</h4>
         <li>Python Programming</li>
         <li>C++, C programming</li>
-        <li>HTML, CSS, Wev=b designing</li>
+        <li>HTML, CSS, Web Designing</li>
         <li>Machine Learning</li>
         <li>Data Science, Data Analysis, Data Visualization</li>
       </ul>
