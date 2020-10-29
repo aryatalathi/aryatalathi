@@ -21,7 +21,6 @@
       <ul><h2>For Contact</h2>
                             <li><a href="https://www.linkedin.com/in/arya-talathi-45835b17a/">LinkedIn</a></li>
                             <li><a href="https://twitter.com/yarra_aryaa">Twitter</a></li>
-                            <li><a href="aryatalathi24@gmail.com">Gmail</a></li>
                             <li><a href="https://www.kaggle.com/arya24">Kaggle</a></li>
                             <li><a href="https://github.com/aryatalathi">Github</a></li>
                         </ul>
@@ -32,7 +31,7 @@
 - 🔭 I’m currently working on Data Science and ML Algorithms
 - 👯 I’m looking to collaborate on ML and Data Science Projects
 - 💬 Ask me about Python, C++, ML basics, Data analysis, Data visualization, Front End Web Designing using HTML, CSS
-
+- How to reach me: Gmail : @aryatalathi24@gmail.com
 
 <!--
 **aryatalathi/aryatalathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
