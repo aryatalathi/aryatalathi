@@ -13,8 +13,10 @@
         <li>Python Programming</li>
         <li>C++, C programming</li>
         <li>HTML, CSS, Web Designing</li>
-        <li>Machine Learning</li>
+        <li>Machine Learning Algorithms</li>
         <li>Data Science, Data Analysis, Data Visualization</li>
+          <li>Python Libraries</li>
+          <li>NLP</li>
       </ul>
     </nav>
     <nav>
@@ -30,8 +32,8 @@
 
 - 🔭 I’m currently working on Data Science and ML Algorithms
 - 👯 I’m looking to collaborate on ML and Data Science Projects
-- 💬 Ask me about Python, C++, ML basics, Data analysis, Data visualization, Front End Web Designing using HTML, CSS
-- How to reach me: Gmail : @aryatalathi24@gmail.com
+- 💬 Ask me about Python, C++, Numpy, Pandas, Scikit libraries, ML algorithms, Data analysis, Data visualization, Front End Web Designing using HTML, CSS
+- How to reach me: Gmail : aryatalathi24@gmail.com
 
 <!--
 **aryatalathi/aryatalathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
