@@ -16,7 +16,6 @@
         <li>Machine Learning Algorithms</li>
         <li>Data Science, Data Analysis, Data Visualization</li>
           <li>Python Libraries</li>
-          <li>NLP</li>
       </ul>
     </nav>
     <nav>
