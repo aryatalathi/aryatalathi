@@ -29,9 +29,10 @@
 </body>
   
 
-- 🔭 I’m currently working on Data Science and ML Algorithms
-- 👯 I’m looking to collaborate on ML and Data Science Projects
-- 💬 Ask me about Python, C++, Numpy, Pandas, Scikit libraries, ML algorithms, Data analysis, Data visualization, Front End Web Designing using HTML, CSS
+- 🔭 I’m currently working on Algorithms, Data Science and Web Designing 
+- 👯 I’m looking to collaborate on ML, Data Science Projects and Web Development
+- 🌱 I’m currently learning MERN Stack
+- 💬 Ask me about Python, C++, Numpy, Pandas, Scikit libraries, Algorithms, Data analysis, Data visualization, Front End Web Designing
 - How to reach me: Gmail : aryatalathi24@gmail.com
 
 <!--
