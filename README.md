@@ -6,7 +6,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
   <body>
-    <h2>Philomath</h2>
     <p>Aspiring TY Btech Computer Engineering student, Passionate Learner</p>
     <nav>  
       <ul><h2>Skills and Interests</h2>
