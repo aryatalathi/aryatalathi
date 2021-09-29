@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width-device-width, initial-scale=1.0">
   <body>
-    <p>Aspiring TY Btech Computer Engineering student, Passionate Learner</p>
+    <p>Btech Computer Engineering student, Passionate Learner</p>
     <nav>  
       <ul><h2>Skills and Interests</h2>
         <li>Python Programming</li>
@@ -31,7 +31,7 @@
 - 🔭 I’m currently working on Algorithms, Data Science and Web Designing 
 - 👯 I’m looking to collaborate on ML, Data Science Projects and Web Development
 - 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about Python, C++, Numpy, Pandas, Scikit libraries, Algorithms, Data analysis, Data visualization, Front End Web Designing
+- 💬 Ask me about Python, C, C++, Data Structures, Algorithms, Data analysis, Data visualization, Web Development
 - How to reach me: Gmail : aryatalathi24@gmail.com
 
 <!--
