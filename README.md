@@ -27,7 +27,7 @@
 - How to reach me: Gmail : aryatalathi24@gmail.com
 
     <nav>
-      <ul><h2>For Contact</h2>
+      <ul>
                             <a href="https://github.com/aryatalathi" class="github"><i class="bx bxl-github"></i></a>
         <a href="https://www.linkedin.com/in/arya-talathi-45835b17a/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         <a href = "mailto:aryatalathi24@gmail.com" class="mail"><i class="bx bx-mail-send"></i></a>
