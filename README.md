@@ -28,10 +28,10 @@
 
     <nav>
       <ul><h2>For Contact</h2>
-                            <li><a href="https://www.linkedin.com/in/arya-talathi-45835b17a/">LinkedIn</a></li>
-                            <li><a href="https://twitter.com/yarra_aryaa">Twitter</a></li>
-                            <li><a href="https://www.kaggle.com/arya24">Kaggle</a></li>
-                            <li><a href="https://github.com/aryatalathi">Github</a></li>
+                            <a href="https://github.com/aryatalathi" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://www.linkedin.com/in/arya-talathi-45835b17a/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href = "mailto:aryatalathi24@gmail.com" class="mail"><i class="bx bx-mail-send"></i></a>
+        <a href="https://twitter.com/yarra_aryaa" class="twitter"><i class="bx bxl-twitter"></i></a>
                         </ul>
      </nav>
 <!--
