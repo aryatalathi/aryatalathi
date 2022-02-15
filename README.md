@@ -17,14 +17,8 @@
           <li>Python Libraries</li>
       </ul>
     </nav>
-    <nav>
-      <ul><h2>For Contact</h2>
-                            <li><a href="https://www.linkedin.com/in/arya-talathi-45835b17a/">LinkedIn</a></li>
-                            <li><a href="https://twitter.com/yarra_aryaa">Twitter</a></li>
-                            <li><a href="https://www.kaggle.com/arya24">Kaggle</a></li>
-                            <li><a href="https://github.com/aryatalathi">Github</a></li>
-                        </ul>
-                    </nav>
+    
+    ![Github stats](https://github-readme-stats.vercel.app/api?username=aryatalathi)
 </body>
   
 
@@ -34,6 +28,14 @@
 - 💬 Ask me about Python, C, C++, Data Structures, Algorithms, Data analysis, Data visualization, Web Development
 - How to reach me: Gmail : aryatalathi24@gmail.com
 
+    <nav>
+      <ul><h2>For Contact</h2>
+                            <li><a href="https://www.linkedin.com/in/arya-talathi-45835b17a/">LinkedIn</a></li>
+                            <li><a href="https://twitter.com/yarra_aryaa">Twitter</a></li>
+                            <li><a href="https://www.kaggle.com/arya24">Kaggle</a></li>
+                            <li><a href="https://github.com/aryatalathi">Github</a></li>
+                        </ul>
+     </nav>
 <!--
 **aryatalathi/aryatalathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,4 +48,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/arya-talathi-45835b17a/ Gmail : @aryatalathi24@gmail.com
 - ⚡ Fun fact: Not a pro coder, but the one who enjoys every code!  :) 
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=aryatalathi)
+
