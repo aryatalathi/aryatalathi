@@ -17,8 +17,6 @@
           <li>Python Libraries</li>
       </ul>
     </nav>
-    
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=aryatalathi)
 </body>
   
 
@@ -48,4 +46,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn : https://www.linkedin.com/in/arya-talathi-45835b17a/ Gmail : @aryatalathi24@gmail.com
 - ⚡ Fun fact: Not a pro coder, but the one who enjoys every code!  :) 
 -->
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=aryatalathi)
